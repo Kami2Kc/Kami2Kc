@@ -45,6 +45,7 @@ Discord: Kami_2K#1127
 - Tomb Raider Series
 - Escape From Tarkov
 
+<!---
 ### My PC build :
 
 - Ryzen 9 5900x
@@ -56,5 +57,6 @@ Discord: Kami_2K#1127
 - Phanteks Evolv MATX
 - Samsung 970 Evo 1TB SSD
 - WD Blue 2TB HDD
+--->
 
 ##### General Kenobi!
