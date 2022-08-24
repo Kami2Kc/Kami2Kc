@@ -1,17 +1,18 @@
 # Hello There! 
 ## My name is Kami.
 
+### A bit about me:
+
 🔭 I’m currently working on a personal website.
 🌱 I’m currently learning React with Tailwind CSS.
 🌍 I'm from Poland but live in the UK, based in West Greater London.
 👯 I’m looking to collaborate on anything tbh.
+🎮 My interests are electronics, programming, mechanics, methematics, carpentry, and video games.
 📫 How to reach me: 
                    Email: kamiwgun@googlemail.com
                    Discord: Kami_2K#1127
 
-My interests are electronics, programming, mechanics, methematics, carpentry, and video games.
-
-I have experience with : 
+### I have experience with : 
 
 - Java
 - Python 
@@ -26,7 +27,7 @@ I have experience with :
 - MySQL
 - Unity
 
-My favourite video games are : 
+### My favourite video games are : 
 
 - Battlefield 4
 - Star Wars Battlefront 2
@@ -43,7 +44,7 @@ My favourite video games are :
 - Tomb Raider Series
 - Escape From Tarkov
 
-My PC build :
+### My PC build :
 
 - Ryzen 9 5900x
 - 32GB 3200mhz Ram
