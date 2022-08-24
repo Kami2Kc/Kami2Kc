@@ -1,4 +1,5 @@
-#### Hello There! My name is Kami.
+# Hello There! 
+## My name is Kami.
 
 🔭 I’m currently working on a personal website.
 🌱 I’m currently learning React with Tailwind CSS.
