@@ -30,7 +30,7 @@ Discord: Kami_2K#1127
 
 ### My favourite video games are : 
 
-- Battlefield 4
+- Battlefield Series (mainly 4)
 - Star Wars Battlefront 2
 - Tom Clancy's Rainbow Six Siege
 - Call of Duty Zombies (BO1, BO2, BO3, BOCW)
