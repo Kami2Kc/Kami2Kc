@@ -3,7 +3,7 @@
 
 ### A bit about me:
 
-- 🔭 I’m currently working on a personal website.
+- 🔭 I’m currently working on a photographer portfolio and a car website.
 - 🌱 I’m currently learning React with Tailwind CSS.
 - 🌍 I'm from Poland but live in the UK, based in West Greater London.
 - 👯 I’m looking to collaborate on anything tbh.
@@ -58,5 +58,3 @@ Discord: Kami_2K#1127
 - Samsung 970 Evo 1TB SSD
 - WD Blue 2TB HDD
 --->
-
-##### General Kenobi!
