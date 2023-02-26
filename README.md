@@ -27,7 +27,7 @@ Discord: Kami_2K#1127
 - React with Tailwind CSS
 - MySQL
 - Unity
-
+<!---
 ### My favourite video games are : 
 
 - Battlefield Series (mainly 4)
@@ -45,7 +45,6 @@ Discord: Kami_2K#1127
 - Tomb Raider Series
 - Escape From Tarkov
 
-<!---
 ### My PC build :
 
 - Ryzen 9 5900x
