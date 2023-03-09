@@ -8,25 +8,8 @@
 - 🌍 I'm from Poland but live in the UK, based in West Greater London.
 - 👯 I’m looking to collaborate on anything tbh.
 - 🎮 My interests are electronics, programming, mechanics, methematics, carpentry, and video games.
-- 📫 How to reach me: 
-```
-Email: kamiwgun@googlemail.com
-Discord: Kami_2K#1127
-```
-### I have experience with : 
+- 🕸  My portfolio : https://www.kami2k.com/
 
-- Java
-- Python 
-- C#
-- C++
-- JavaScript
-- SQL
-- PHP
-- CSS
-- HTML
-- React with Tailwind CSS
-- MySQL
-- Unity
 <!---
 ### My favourite video games are : 
 
